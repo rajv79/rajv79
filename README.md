@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rajv79 (Vivek Raj)
 - 👀 I’m interested in Web Developemt and software programing
-- 🌱 I’m currently learning C/C++ and DSA
+- 🌱 I’m currently learning C/C++ and DSA 
+- My interest is in Machine learning/AI
 - 💞️ I’m looking to collaborate on Web Development and developing small applications
 - 📫 You can reach me at : rajviv79@gmail.com
 
