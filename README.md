@@ -1,4 +1,4 @@
--Introduction: Vivek Raj here, an enthusiast in Machine Learning, Deep Learning, and software development.
+### -Introduction: Vivek Raj here, an enthusiast in Machine Learning, Deep Learning, and software development.
 -Current Learning: Enhancing skills in C/C++, Data Structures, and Algorithms, and delving deeper into AI technologies.
 -Interest Areas: Focused on Machine Learning and AI advancements.
 -Collaboration: Open to joining forces on Machine Learning projects and research.
