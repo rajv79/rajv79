@@ -72,14 +72,6 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 </p>
 
 
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=7" alt="rajv79's trophies">
-</p>
-
 ---
 
 ## Repository Stats:
