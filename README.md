@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue&count=80">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </p>
@@ -67,11 +67,10 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical">
 </p>
 
-<h3>
-  Some Quotes ✨
-</h3>
-<ul>
-  <li>"In the realm of technology, every challenge is an opportunity to innovate and make a difference."</li>
-  <li>"Stand up and walk. Keep moving forward."</li>
-  <li>"It's not our abilities that show what we truly are. It is our choices."</li>
-</ul>
+<h4>Languages & Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
