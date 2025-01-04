@@ -74,9 +74,9 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 </p>
 
 ### Repository Stats:
-- **Public Repositories**: X  
-- **Private Repositories**: Y  
-- **Total Commits**: Z
+- **Public Repositories**: 18  
+- **Private Repositories**: 17  
+- **Total Commits**: (Add the actual total commits value here manually)
 
 ---
 
@@ -101,5 +101,5 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 
 ## Some Quotes ✨
 - "In the realm of technology, every challenge is an opportunity to innovate and make a difference."  
-- "Stand up and walk. Keep moving forward."  
-- "It's not our abilities that show what we truly are. It is our choices."
+- "The Moment You Think of Giving Up, Think of the Reason Why You Held on So Long."  
+- "If you don’t take risks, you can’t create a future."
