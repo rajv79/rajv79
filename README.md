@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="path-to-your-image.png" alt="Hi There! I'M Vivek Raj" style="width: 100%; height: auto;">
+  <img src="https://github.com/rajv79/rajv79/blob/main/WEBPIC.png" alt="Hi There! I'M Vivek Raj" style="width: 100%; height: auto;">
 </div>
+
 
 # Vivek Raj 🌟
 **"In the realm of technology, every challenge is an opportunity to innovate and make a difference."**
