@@ -64,10 +64,10 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://your-app.vercel.app/api?username=rajv79&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajv79&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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">
 </p>
 <p align="center">
-  <img src="https://your-app.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true&token=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">
 </p>
 
 ---
