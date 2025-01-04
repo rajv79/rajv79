@@ -73,12 +73,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nkap23&show_icons=true&theme=vision-friendly-dark">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkap23&theme=vision-friendly-dark">
-</p>
+
 
 ### Repository Stats:
 - **Public Repositories**: 18  
