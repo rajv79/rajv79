@@ -73,11 +73,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 
 
 
-<p align="center">
-  <a href="https://github.com/rajv79/repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=repo-name&theme=radical" alt="repo-name">
-  </a>
-</p>
+
 
 
 <p align="center">
