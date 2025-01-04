@@ -66,9 +66,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 
 ## GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajv79&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true">
 </p>
@@ -83,9 +81,6 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajv79&theme=radical" alt="rajv79's streak stats">
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=7" alt="rajv79's trophies">
