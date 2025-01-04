@@ -16,6 +16,9 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://rajv79.github.io/Portfolio_Vivek">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
 </p>
 
 Hello World 👋  
@@ -69,8 +72,18 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true">
 </p>
+
+### Repository Stats:
+- **Public Repositories**: X  
+- **Private Repositories**: Y  
+- **Total Commits**: Z
+
+---
+
+## Trophies 🏆
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&exclude_issues=true&exclude_reviews=true">
 </p>
 
 ---
