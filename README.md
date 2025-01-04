@@ -1,69 +1,77 @@
-<div align="center">
-  <img src="https://github.com/rajv79/rajv79/blob/main/WEBPIC.png" alt="Hi There! I'M Vivek Raj" style="width: 100%; height: auto;">
-</div>
+<p align="center">
+  <img src="WEBPIC.png" alt="Hi There! I'M Vivek Raj">
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue">
+</p>
 
-# Vivek Raj 🌟
-**"In the realm of technology, every challenge is an opportunity to innovate and make a difference."**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-raj07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/rajv79">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-raj07)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rajv79)
+Hello World 👋
+<br/>
+<br/>
+I'm Vivek Raj, a Software Developer pursuing my **Master's in Computer Science** with a focus on Artificial Intelligence at Binghamton University. I thrive on solving complex problems and creating impactful solutions.
+<br/>
+<br/>
+Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Software Engineering, and Data Structures & Algorithms.
 
----
+<h3>
+  Skills 💼
+</h3>
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+</p>
+<h4>Frontend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+<h4>Backend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<h4>Machine Learning & AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformer_Models-blue?style=for-the-badge">
+</p>
 
-## 👨‍💻 Hello World 👋
-I’m **Vivek Raj**, a passionate **Software Developer** pursuing my **Master's in Computer Science** with a focus on Artificial Intelligence at Binghamton University. My interests include solving challenging problems, innovating with cutting-edge technology, and contributing to impactful projects.
+<h3>
+  GitHub Stats 📊
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajv79&show_icons=true&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical">
+</p>
 
----
-
-## 🛠️ Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![SAP/ABAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
-
-### Frontend Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Machine Learning & Artificial Intelligence
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-
-- Transformer Models (e.g., BERT, GPT-3)
-- Neural Networks & Deep Learning
-- Reinforcement Learning
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-
----
-
-## 📊 GitHub Stats
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical)](https://github.com/rajv79)
-
-### Contributions & Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajv79&theme=radical)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajv79&show_icons=true&theme=radical)](https://github.com/rajv79)
-
----
-
-## 📜 Certifications
-- **Software Engineering Virtual Experience** - JPMorgan Chase & Co.
-- **Cybersecurity Virtual Experience Program** - JPMorgan Chase & Co.
-
----
-
-## 🌟 Let's Connect
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/vivek-raj07) or explore more of my projects on [GitHub](https://github.com/rajv79)!
+<h3>
+  Some Quotes ✨
+</h3>
+<ul>
+  <li>"In the realm of technology, every challenge is an opportunity to innovate and make a difference."</li>
+  <li>"Stand up and walk. Keep moving forward."</li>
+  <li>"It's not our abilities that show what we truly are. It is our choices."</li>
+</ul>
