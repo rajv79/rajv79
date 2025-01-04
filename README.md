@@ -78,7 +78,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 ### Repository Stats:
 - **Public Repositories**: 18  
 - **Private Repositories**: 17  
-- **Total Commits**: Automatically calculated by the GitHub stats above.
+- **Total Commits ** : 447 
 
 ---
 
