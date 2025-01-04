@@ -73,12 +73,30 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajv79&layout=compact&theme=radical&count_private=true">
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rajv79&theme=radical" alt="rajv79's contribution graph">
+</p>
 
+<p align="center">
+  <a href="https://github.com/rajv79/repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=repo-name&theme=radical" alt="repo-name">
+  </a>
+</p>
 
-### Repository Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajv79&theme=radical" alt="rajv79's streak stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=7" alt="rajv79's trophies">
+</p>
+
+---
+
+## Repository Stats:
 - **Public Repositories**: 18  
 - **Private Repositories**: 17  
-- **Total Commits ** : 447 
+- **Total Commits** : 447 
 
 ---
 
