@@ -92,35 +92,7 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
 
 ---
 
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/rajv79/sample-repo-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=sample-repo-1&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rajv79/sample-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=sample-repo-2&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/rajv79/sample-repo-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=sample-repo-3&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rajv79/sample-repo-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajv79&repo=sample-repo-4&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ---
 
