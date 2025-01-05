@@ -90,6 +90,12 @@ Areas of Expertise/Interest: Artificial Intelligence, Machine Learning, Deep Lea
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajv79&theme=highcontrast&hide_border=true">
 </div>
 
+
+<h3 align="center">GitHub Trophies 🏆</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajv79&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&exclude_issues=true&exclude_reviews=true">
+</p>
 ---
 
 
