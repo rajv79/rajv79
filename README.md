@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue&count=80">
+  <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue&count=80">
 </p>
 
 <p align="center">
