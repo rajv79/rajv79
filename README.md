@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue&count=80">
  
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-raj07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -17,8 +15,11 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  
+  <a href="https://rajv79.github.io/Portfolio_Vivek">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
+
 
 Hello World 👋  
 <br/>  
