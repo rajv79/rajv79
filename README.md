@@ -36,44 +36,39 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 
 ---
 
-### 📫 Let's Connect!  
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivek-raj07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/rajv79" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:vraj1@binghamton.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://rajv79.github.io/Portfolio_Vivek" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
+## 🚀 Technical Skills 💼
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </p>
 
----
 
-## 🚀 Technical Skills  
-
-### Programming Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,abap" />
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-### Web Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### Backend Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-### Machine Learning & AI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+### Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformer_Models-blue?style=for-the-badge">
 </p>
 
 ---
