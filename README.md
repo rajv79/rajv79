@@ -27,7 +27,10 @@
   
 I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in Computer Science (AI Track) at Binghamton University**. I have a deep passion for **Artificial Intelligence, Cybersecurity, and Software Engineering**, and I love solving **complex real-world problems** through **efficient and scalable solutions**.  
 
-- 🔬 **Research Assistant (Prompt Engineering) at Binghamton University**  
+- 🔬 **Research Assistant (Prompt Engineering) at Binghamton University**
+- ## 🎉 Open Source Contributions  
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github)](https://github.com/apple/foundationdb/pull/11879)
+
 - 🏆 **1st Place Winner – Best TechHack (HACKBU 2024)**  
 - 💻 **Software Intern at Central Hudson Gas & Electric Corp**  
 - 🎯 **Teaching Assistant (Computer Security & Algorithms), mentoring 100+ students**  
