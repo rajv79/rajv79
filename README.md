@@ -4,7 +4,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajv79&color=blue&count=80">
- 
+</p>
+
+<p align="center">
+  <!-- Open Source Contributor Badge -->
+  <a href="https://github.com/apple/foundationdb/pull/11879">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github">
+  </a>
+  
+  <!-- Apple Contributor Badge -->
+  <a href="https://github.com/apple/foundationdb/pull/11879">
+    <img src="https://img.shields.io/badge/Apple-FoundationDB-%23000000?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-raj07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -19,6 +32,7 @@
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
+
 
 
 ---
