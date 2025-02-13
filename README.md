@@ -79,17 +79,17 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 - Developed **AES-128-CFB encryption** with Boolean masking on the **MAX78000FTHR** board  
 - Implemented **anti-replay defenses & cryptographic timestamp verification**  
 - Built a **real-time embedded decoder (10+ FPS)** with side-channel protections  
-🔗 [GitHub Repository](https://github.com/rajv79/MITRE-eCTF-2025)
+
 
 📌 **Custom Memory Management System (C)**  
 - Optimized **kernel-space performance** by **30%**  
 - Implemented **bitmap-based tracking & function interposition** for efficiency  
-🔗 [GitHub Repository](https://github.com/rajv79/CustomMemoryManagement)
+
 
 📊 **ConcurrentTextAnalyzer (Map-Reduce for Text Processing)**  
 - Designed **scalable map-reduce framework in C**, reducing processing time **by 20%**  
 - **Multithreaded text segmentation & synchronization**, boosting efficiency **by 40%**  
-🔗 [GitHub Repository](https://github.com/rajv79/ConcurrentTextAnalyzer-Map-Reduce-for-Text-Processing-)
+
 
 ---
 
