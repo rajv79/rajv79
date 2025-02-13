@@ -36,6 +36,14 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 
 ---
 
+## 🎉 Open Source Contributions  
+
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github)](https://github.com/apple/foundationdb/pull/11879)
+
+🚀 Contributed to **Apple’s FoundationDB** – Improved **logging system & unit testing for API Version 510**.  
+🔗 **Merged PR:** [Refactor initialize_logger_level & unit_tests_version_510](https://github.com/apple/foundationdb/pull/11879)
+
+
 ## 🚀 Technical Skills 💼
 
 ### Programming Languages
