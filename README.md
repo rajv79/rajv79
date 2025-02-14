@@ -96,7 +96,7 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 🚀 **MITRE eCTF 2025 (Embedded Security Competition)**  
 - Developed **AES-128-CFB encryption** with Boolean masking on the **MAX78000FTHR** board  
 - Implemented **anti-replay defenses & cryptographic timestamp verification**  
-- Built a **real-time embedded decoder (10+ FPS)** with side-channel protections  
+- Built a **real-time embedded decoder with side-channel protections  
 
 
 📌 **Custom Memory Management System (C)**  
