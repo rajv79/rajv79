@@ -35,11 +35,11 @@
   
 I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in Computer Science (AI Track) at Binghamton University**. I have a deep passion for **Artificial Intelligence, Cybersecurity, and Software Engineering**, and I love solving **complex real-world problems** through **efficient and scalable solutions**.  
 
+- 🚀 **MITRE eCTF 2025 Competitor (Embedded Security) – Ranked in Top 30 Worldwide**  
 - 🔬 **Research Assistant (Prompt Engineering) at Binghamton University**
 - 🏆 **1st Place Winner – Best TechHack (HACKBU 2024)**  
 - 💻 **Software Intern at Central Hudson Gas & Electric Corp**  
 - 🎯 **Teaching Assistant (Computer Security & Algorithms), mentoring 100+ students**  
-- 🚀 **MITRE eCTF 2025 Competitor (Embedded Security)**  
 - 📚 Always exploring **Machine Learning, Embedded Systems, and Algorithm Optimization**  
 
 ---
