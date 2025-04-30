@@ -48,7 +48,7 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 
 - 🛡️ **MITRE eCTF 2025 Milestone**  
   - 🥈 **2nd Place in New York State**  
-  - 🌍 **26th Worldwide out of 150+ teams in our first-ever appearance**
+  - 🌍 **26th Worldwide out of 250+ teams in our first-ever appearance**
 
 - 🥇 **1st Place Winner – Best TechHack (HACKBU 2024)**  
 - 🏆 **Runner-up – QubitX Hacks (April 2024)**  
