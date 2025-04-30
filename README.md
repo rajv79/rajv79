@@ -44,6 +44,20 @@ I'm a **Software Developer & AI Enthusiast** currently pursuing my **Master's in
 
 ---
 
+---
+
+##🏆 Achievements & Certifications
+
+🛡️ **MITRE eCTF 2025 Milestone**
+  🥈 **2nd Place in New York State**
+  🌍 **26th Worldwide out of 150+ teams in our first-ever appearance**
+
+🥇 **1st Place Winner – Best TechHack (HACKBU 2024)** 
+🏆 **Runner-up – QubitX Hacks (April 2024)**
+
+---
+
+
 ## 🎉 Open Source Contributions  
 
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github)](https://github.com/apple/foundationdb/pull/11879)  
