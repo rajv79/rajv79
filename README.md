@@ -21,7 +21,7 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://rajv79.github.io/Portfolio_Vivek">
+  <a href="https://rajv79.github.io/vivek-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
